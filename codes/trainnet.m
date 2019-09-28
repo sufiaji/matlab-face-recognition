@@ -1,7 +1,3 @@
-% Version : 5.3
-% Date : 12.01.2010
-% Author  : Omid Bonakdar Sakhi
-
 function NET = trainnet(net,IMGDB)
 
 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
